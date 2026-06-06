@@ -1,4 +1,4 @@
-module github.com/Mritunjay2005/watchDog
+module github.com/Mritunjay2005/watchdog
 
 go 1.22
 
